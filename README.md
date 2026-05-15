@@ -98,6 +98,16 @@ npx react-native run-android
 
 <img width="1254" height="1254" alt="ChatGPT Image May 1, 2026, 01_38_23 PM" src="https://github.com/user-attachments/assets/cb07058c-5490-48a6-878f-77dce52ae02d" />
 
+<img width="702" height="1600" alt="WhatsApp Image 2026-05-15 at 6 50 24 PM" src="https://github.com/user-attachments/assets/401f38db-3356-493b-b4ff-a0eca7d9d789" />
+
+<img width="702" height="1600" alt="WhatsApp Image 2026-05-15 at 6 50 24 PM (1)" src="https://github.com/user-attachments/assets/90c72cd5-674a-49b9-a148-7b70250b86da" />
+
+<img width="702" height="1600" alt="WhatsApp Image 2026-05-15 at 6 50 25 PM" src="https://github.com/user-attachments/assets/8c70f5b0-5f1d-40de-b356-7cf0d220ae90" />
+
+<img width="702" height="1600" alt="WhatsApp Image 2026-05-15 at 6 50 26 PM" src="https://github.com/user-attachments/assets/0b0877e3-11c9-48d1-9930-a37a465f66e2" />
+
+<img width="702" height="1600" alt="WhatsApp Image 2026-05-15 at 6 50 27 PM" src="https://github.com/user-attachments/assets/08970790-799c-4d14-b92b-45b996bc0a6a" />
+
 🔮 Future Enhancements
 IoT Integration: Smart sensors to track cattle body temperature and activity.
 
