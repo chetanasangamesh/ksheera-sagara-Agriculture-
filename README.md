@@ -89,6 +89,7 @@ yarn install
 Run the application:
 For Android:
 Bash
+
 npx react-native run-android
 
 📸 Screenshots
