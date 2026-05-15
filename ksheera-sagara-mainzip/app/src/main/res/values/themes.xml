@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Ksheerasagara" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#FFF4C7</item>
+        <item name="android:colorAccent">#018A4D</item>
+        <item name="android:navigationBarColor">#FFF4C7</item>
+        <item name="android:statusBarColor">#FFF4C7</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

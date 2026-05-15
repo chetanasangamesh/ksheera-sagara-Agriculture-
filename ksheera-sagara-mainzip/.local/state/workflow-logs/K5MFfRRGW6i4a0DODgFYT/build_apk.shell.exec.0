@@ -1,0 +1,100 @@
+================================================
+  KSHEERA SAGARA — Android APK Builder
+================================================
+
+[1/5] Downloading Android SDK Command Line Tools...
+          /home/run   0%[                    ]       0  --.-KB/s                        /home/runn   0%[                    ] 369.16K  1.78MB/s                       /home/runne   2%[                    ]   3.54M  8.80MB/s                      /home/runner   8%[>                   ]  12.11M  20.1MB/s                     /home/runner/  15%[==>                 ]  22.93M  28.6MB/s                    /home/runner/c  23%[===>                ]  34.48M  34.3MB/s                   /home/runner/cm  33%[=====>              ]  48.55M  40.3MB/s                  /home/runner/cmd  41%[=======>            ]  60.07M  42.7MB/s                 /home/runner/cmdl  50%[=========>          ]  74.29M  46.2MB/s                /home/runner/cmdli  58%[==========>         ]  85.66M  47.3MB/s               /home/runner/cmdlin  68%[============>       ]  99.88M  49.7MB/s               home/runner/cmdline  75%[==============>     ] 111.26M  50.3MB/s               ome/runner/cmdline-  85%[================>   ] 125.48M  51.6MB/s               me/runner/cmdline-t  94%[=================>  ] 137.87M  52.4MB/s               /home/runner/cmdlin 100%[===================>] 146.49M  53.2MB/s    in 2.8s    
+[1/5] Extracting...
+[1/5] Done.
+[2/5] Accepting Android SDK licenses...
+[3/5] Installing Android SDK packages (this may take a few minutes)...
+Loading package information...                                                  Loading local repository...                                                     [                                       ] 3% Loading local repository...        [                                       ] 3% Fetch remote repository...         [=                                      ] 3% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 7% Fetch remote repository...         [==                                     ] 7% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 10% Computing updates...              [===                                    ] 10% Installing Android SDK Platform 36[===                                    ] 10% Downloading platform-36_r02.zip...[====                                   ] 10% Downloading platform-36_r02.zip...[====                                   ] 11% Downloading platform-36_r02.zip...[====                                   ] 12% Downloading platform-36_r02.zip...[=====                                  ] 13% Downloading platform-36_r02.zip...[=====                                  ] 14% Downloading platform-36_r02.zip...[=====                                  ] 15% Downloading platform-36_r02.zip...[======                                 ] 15% Downloading platform-36_r02.zip...[======                                 ] 16% Downloading platform-36_r02.zip...[======                                 ] 17% Downloading platform-36_r02.zip...[=======                                ] 18% Downloading platform-36_r02.zip...[=======                                ] 18% Unzipping...                      [=======                                ] 18% Unzipping... android-36/android-st[=======                                ] 18% Unzipping... android-36/android.ja[=======                                ] 19% Unzipping... android-36/android.ja[=======                                ] 20% Unzipping... android-36/android.ja[========                               ] 20% Unzipping... android-36/android.ja[========                               ] 21% Unzipping... android-36/android.ja[========                               ] 21% Unzipping... android-36/build.prop[========                               ] 21% Unzipping... android-36/core-for-s[========                               ] 21% Unzipping... android-36/data/NOTIC[========                               ] 21% Unzipping... android-36/data/activ[========                               ] 21% Unzipping... android-36/data/annot[========                               ] 21% Unzipping... android-36/data/api-v[========                               ] 22% Unzipping... android-36/data/api-v[========                               ] 22% Unzipping... android-36/data/broad[========                               ] 22% Unzipping... android-36/data/categ[========                               ] 22% Unzipping... android-36/data/featu[========                               ] 22% Unzipping... android-36/data/res/a[========                               ] 22% Unzipping... android-36/data/res/c[========                               ] 22% Unzipping... android-36/data/res/d[=========                              ] 23% Unzipping... android-36/data/res/d[=========                              ] 23% Unzipping... android-36/data/res/i[=========                              ] 23% Unzipping... android-36/data/res/l[=========                              ] 23% Unzipping... android-36/data/res/m[=========                              ] 23% Unzipping... android-36/data/res/r[=========                              ] 23% Unzipping... android-36/data/res/t[=========                              ] 23% Unzipping... android-36/data/res/v[=========                              ] 24% Unzipping... android-36/data/res/v[=========                              ] 25% Unzipping... android-36/data/res/v[=========                              ] 25% Unzipping... android-36/data/res/x[=========                              ] 25% Unzipping... android-36/data/servi[=========                              ] 25% Unzipping... android-36/data/widge[=========                              ] 25% Unzipping... android-36/framework.[=========                              ] 25% Unzipping... android-36/optional/a[=========                              ] 25% Unzipping... android-36/optional/l[=========                              ] 25% Unzipping... android-36/optional/o[=========                              ] 25% Unzipping... android-36/optional/w[=========                              ] 25% Unzipping... android-36/sdk.proper[=========                              ] 25% Unzipping... android-36/skins/HVGA[=========                              ] 25% Unzipping... android-36/skins/NOTI[=========                              ] 25% Unzipping... android-36/skins/QVGA[=========                              ] 25% Unzipping... android-36/skins/WQVG[=========                              ] 25% Unzipping... android-36/skins/WSVG[=========                              ] 25% Unzipping... android-36/skins/WVGA[=========                              ] 25% Unzipping... android-36/skins/WXGA[=========                              ] 25% Unzipping... android-36/source.pro[=========                              ] 25% Unzipping... android-36/templates/[=========                              ] 25% Unzipping... android-36/uiautomato[===============                        ] 40% Unzipping... android-36/uiautomato[===============                        ] 40% Installing Android SDK Build-Tools[===============                        ] 40% Downloading build-tools_r34-linux.[================                       ] 40% Downloading build-tools_r34-linux.[================                       ] 41% Downloading build-tools_r34-linux.[================                       ] 42% Downloading build-tools_r34-linux.[=================                      ] 43% Downloading build-tools_r34-linux.[=================                      ] 44% Downloading build-tools_r34-linux.[=================                      ] 45% Downloading build-tools_r34-linux.[==================                     ] 45% Downloading build-tools_r34-linux.[==================                     ] 46% Downloading build-tools_r34-linux.[==================                     ] 47% Downloading build-tools_r34-linux.[==================                     ] 48% Downloading build-tools_r34-linux.[==================                     ] 48% Unzipping... android-36/uiautomato[==================                     ] 48% Unzipping... android-14/NOTICE.txt[===================                    ] 48% Unzipping... android-14/NOTICE.txt[===================                    ] 48% Unzipping... android-14/aapt      [===================                    ] 48% Unzipping... android-14/aapt2     [===================                    ] 48% Unzipping... android-14/aarch64-li[===================                    ] 48% Unzipping... android-14/aidl      [===================                    ] 48% Unzipping... android-14/apksigner [===================                    ] 48% Unzipping... android-14/arm-linux-[===================                    ] 48% Unzipping... android-14/bcc_compat[===================                    ] 48% Unzipping... android-14/core-lambd[===================                    ] 48% Unzipping... android-14/d8        [===================                    ] 48% Unzipping... android-14/dexdump   [===================                    ] 48% Unzipping... android-14/i686-linux[===================                    ] 48% Unzipping... android-14/lld       [===================                    ] 48% Unzipping... android-14/llvm-rs-cc[===================                    ] 48% Unzipping... android-14/mipsel-lin[===================                    ] 48% Unzipping... android-14/runtime.pr[===================                    ] 48% Unzipping... android-14/source.pro[===================                    ] 48% Unzipping... android-14/split-sele[===================                    ] 48% Unzipping... android-14/x86_64-lin[===================                    ] 48% Unzipping... android-14/zipalign  [===================                    ] 48% Unzipping... android-14/lib/apksig[===================                    ] 49% Unzipping... android-14/lib/apksig[===================                    ] 49% Unzipping... android-14/lib/d8.jar[===================                    ] 50% Unzipping... android-14/lib/d8.jar[===================                    ] 50% Unzipping... android-14/lib64/libL[====================                   ] 50% Unzipping... android-14/lib64/libL[====================                   ] 51% Unzipping... android-14/lib64/libL[====================                   ] 51% Unzipping... android-14/lib64/libb[====================                   ] 51% Unzipping... android-14/lib64/libc[====================                   ] 52% Unzipping... android-14/lib64/libc[====================                   ] 52% Unzipping... android-14/lld-bin/ll[=====================                  ] 53% Unzipping... android-14/lld-bin/ll[=====================                  ] 54% Unzipping... android-14/lld-bin/ll[=====================                  ] 54% Unzipping... android-14/renderscri[=====================                  ] 55% Unzipping... android-14/renderscri[===========================            ] 70% Unzipping... android-14/renderscri[===========================            ] 70% Installing Android SDK Platform-To[===========================            ] 70% Downloading platform-tools_r37.0.0[============================           ] 70% Downloading platform-tools_r37.0.0[============================           ] 71% Downloading platform-tools_r37.0.0[============================           ] 72% Downloading platform-tools_r37.0.0[=============================          ] 73% Downloading platform-tools_r37.0.0[=============================          ] 74% Downloading platform-tools_r37.0.0[=============================          ] 75% Downloading platform-tools_r37.0.0[==============================         ] 75% Downloading platform-tools_r37.0.0[==============================         ] 76% Downloading platform-tools_r37.0.0[==============================         ] 77% Downloading platform-tools_r37.0.0[==============================         ] 77% Unzipping... android-14/renderscri[==============================         ] 77% Unzipping... platform-tools/NOTICE[===============================        ] 78% Unzipping... platform-tools/NOTICE[===============================        ] 78% Unzipping... platform-tools/adb   [===============================        ] 79% Unzipping... platform-tools/adb   [===============================        ] 80% Unzipping... platform-tools/adb   [================================       ] 80% Unzipping... platform-tools/adb   [================================       ] 81% Unzipping... platform-tools/adb   [================================       ] 82% Unzipping... platform-tools/adb   [================================       ] 82% Unzipping... platform-tools/etc1to[================================       ] 82% Unzipping... platform-tools/fastbo[=================================      ] 83% Unzipping... platform-tools/fastbo[=================================      ] 83% Unzipping... platform-tools/hprof-[=================================      ] 83% Unzipping... platform-tools/lib64/[=================================      ] 83% Unzipping... platform-tools/make_f[=================================      ] 83% Unzipping... platform-tools/mke2fs[=================================      ] 84% Unzipping... platform-tools/mke2fs[=================================      ] 84% Unzipping... platform-tools/source[=================================      ] 84% Unzipping... platform-tools/sqlite[=================================      ] 85% Unzipping... platform-tools/sqlite[=======================================] 100% Unzipping... platform-tools/sqlit
+
+[3/5] Done.
+[4/5] Preparing Gradle build...
+[5/5] Building APK (this takes 2-5 minutes on first run)...
+Downloading https://services.gradle.org/distributions/gradle-9.2.1-bin.zip
+............10%.............20%.............30%.............40%.............50%.............60%.............70%.............80%.............90%.............100%
+
+Welcome to Gradle 9.2.1!
+
+Here are the highlights of this release:
+ - Windows ARM support
+ - Improved publishing APIs
+ - Better guidance for dependency verification failures
+
+For more details see https://docs.gradle.org/9.2.1/release-notes.html
+
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/9.2.1/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Daemon will be stopped at the end of the build 
+Checking the license for package Android SDK Build-Tools 36 in /home/runner/android-sdk/licenses
+License for package Android SDK Build-Tools 36 accepted.
+Preparing "Install Android SDK Build-Tools 36 v.36.0.0".
+"Install Android SDK Build-Tools 36 v.36.0.0" ready.
+Installing Android SDK Build-Tools 36 in /home/runner/android-sdk/build-tools/36.0.0
+"Install Android SDK Build-Tools 36 v.36.0.0" complete.
+"Install Android SDK Build-Tools 36 v.36.0.0" finished.
+[=========                              ] 25%                                   > Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:generateDebugResources
+> Task :app:packageDebugResources
+> Task :app:processDebugNavigationResources
+> Task :app:parseDebugLocalResources
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:javaPreCompileDebug
+> Task :app:generateDebugRFile
+> Task :app:mergeDebugAssets
+> Task :app:compressDebugAssets
+> Task :app:desugarDebugFileDependencies
+> Task :app:checkDebugDuplicateClasses
+> Task :app:checkDebugAarMetadata
+> Task :app:kaptGenerateStubsDebugKotlin
+> Task :app:mergeExtDexDebug
+> Task :app:mergeLibDexDebug
+> Task :app:compileDebugNavigationResources
+> Task :app:mapDebugSourceSetPaths
+> Task :app:kaptDebugKotlin
+> Task :app:createDebugCompatibleScreenManifests
+> Task :app:extractDeepLinksDebug
+> Task :app:mergeDebugResources
+> Task :app:processDebugMainManifest
+> Task :app:processDebugManifest
+> Task :app:mergeDebugJniLibFolders
+> Task :app:mergeDebugNativeLibs
+> Task :app:validateSigningDebug
+> Task :app:writeDebugAppMetadata
+> Task :app:writeDebugSigningConfigVersions
+> Task :app:processDebugManifestForPackage
+
+> Task :app:stripDebugDebugSymbols
+Unable to strip the following libraries, packaging them as they are: libandroidx.graphics.path.so. Run with --info option to learn more.
+
+> Task :app:processDebugResources
+> Task :app:compileDebugKotlin
+> Task :app:compileDebugJavaWithJavac
+> Task :app:processDebugJavaRes
+> Task :app:mergeDebugJavaResource
+> Task :app:dexBuilderDebug
+> Task :app:mergeProjectDexDebug
+> Task :app:packageDebug
+> Task :app:createDebugApkListingFileRedirect
+> Task :app:assembleDebug
+
+BUILD SUCCESSFUL in 3m 35s
+38 actionable tasks: 38 executed
+Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.2.1/userguide/configuration_cache_enabling.html
+
+================================================
+  ✅ APK BUILT SUCCESSFULLY!
+  Size: 13M
+  Location: app/build/outputs/apk/debug/app-debug.apk
+
+  HOW TO INSTALL:
+  1. Open the Files panel in Replit (left sidebar)
+  2. Navigate to app/build/outputs/apk/debug/
+  3. Right-click app-debug.apk → Download
+  4. Transfer to your Android phone
+  5. Enable 'Install from unknown sources' in phone settings
+  6. Open the APK file to install
+================================================
